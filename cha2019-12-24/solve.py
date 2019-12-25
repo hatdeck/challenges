@@ -5,9 +5,6 @@ Consider two strings "aabcdefg" and "fbd". How many characters do we have to rem
 
 For this example, solve("aabcdefg","fbd") = 5. Also, solve("xyz","yxxz") = 0, because we cannot get second string from the first since the second string is longer.
 
-More examples in the test cases.
-
-Good luck!
 """
 
 from collections import Counter
