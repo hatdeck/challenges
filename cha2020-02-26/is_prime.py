@@ -1,5 +1,5 @@
 """
-Consider an array with no prime numbers, and none of its elements has any prime digit. It would start with: [1,4,6,8,9,10,14,16,18,40,44..].
+Consider an array with no prime numbers or prime digit. It would start with: [1,4,6,8,9,10,14,16,18,40,44..].
 
 12 and 15 are not in the list because 2 and 5 are primes.
 
