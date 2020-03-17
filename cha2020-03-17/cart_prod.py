@@ -1,9 +1,6 @@
 """
-The cartesian product of two sets A and B, written "A × B", is equal to the set of all possible combinations of values from both sets. Here's an example, taken from Mathstopia :
+The cartesian product of two sets A and B, written "A × B", is equal to the set of all possible combinations of values from both sets.
 
-
-
-Your task
 Implement function cart_prod, which returns the cartesian product (in the form of tuples) of any number of sets passed to it (note the * before sets in the function definition). Also,
 
 The cartesian product A × B × C, where A, B and C are sets, is equal to (A × B) × C. See bottom of description for a concrete e×ample.
