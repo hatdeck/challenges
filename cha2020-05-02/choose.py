@@ -9,3 +9,7 @@ def choose(n, k):
         return ntok // ktok
     else:
         return 0
+
+def numrolls(k, n, s):
+    return sum((-1)**i * choose(n, i) * choose(k-s*i-1, k-s*i-n) for i in range((k-n)//s + 1))
+    
