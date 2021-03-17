@@ -1,5 +1,5 @@
 """
-The cartesian product of two sets A and B, written "A × B" is equal to the set of all possible combinations of values from both sets. Here's an example, taken from Mathstopia :
+The cartesian product of two sets A and B, written "A × B", is equal to the set of all possible combinations of values from both sets. Here's an example, taken from Mathstopia :
 
 
 
